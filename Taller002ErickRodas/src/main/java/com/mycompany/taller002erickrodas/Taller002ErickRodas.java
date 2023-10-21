@@ -11,6 +11,6 @@ package com.mycompany.taller002erickrodas;
 public class Taller002ErickRodas {
 
     public static void main(String[] args) {
-        System.out.println("Ejemplo básico de Java Manejado desde GitHub Versionado a través de Git Manejado desde GitHub Creado por ericroco");
+        System.out.println("Ejemplo básico de Java Versionado a través de Git Manejado desde GitHub");
     }
 }
